@@ -13,5 +13,23 @@ The project is made up of mainly blueprints used within the game engine and also
 Features of the game: 1)Side Scroller View of the game environment 2)Multiplayer support using additional gamepad connected to the computer 3)Attribute components like player health
 
 This game consists of two players, one being controlled using keyboard and mouse, the other using a gamepad. The starting menu consists of three buttons; play, controls, quit. Play- starts the game Controls- shows the various controls for both players. Quit- quit the game.
+Each player has a health and the player dies if health reaches zero.
+Game terminates when a player dies.
+Health is displayed on a health bar.
+
+Controls
+1st player
+W - jump
+A - left
+D - right
+G - attack
+
+2nd Player
+gamepad left thumbstick up - jump
+gamepad left thumbstick left - left
+gamepad left thumbstick right - right
+gamepad right thumbstick - attack
+
 
 // future scope
+
