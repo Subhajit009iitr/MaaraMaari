@@ -31,7 +31,7 @@ gamepad left thumbstick right - right
 gamepad right thumbstick - attack
 
 
-future scope<br>
+<h4> future scope</h4><br>
 New levels with more difficulty can be added
 characters can have more animations and attack options
 There can be choices between character Looks and modes
